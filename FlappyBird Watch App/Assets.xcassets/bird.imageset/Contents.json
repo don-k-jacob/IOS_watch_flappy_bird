@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-flappy-bird-app-store-sprite-scratch-5ac32182e1e824.4237993115227375389253.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
